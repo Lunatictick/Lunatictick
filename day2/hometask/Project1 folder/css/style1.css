@@ -1,0 +1,59 @@
+/*body {
+/*background-color:#94b9ff;*/
+	/*background-image: url(../IMG/vasik.jpg); 
+	background-size:cover;
+	background-repeat:space
+	/*background-image: url(../IMG/lemon.jpg); 
+	background-repeat:repeat;
+	} */
+
+/* главный хэдер.mainHeader {
+	background-image: url(../IMG/vanGohg.jpg);
+	background-position:right-bottom;}*/
+
+.courseName {
+/* просто голубой фон background-color: #91b3f2;*/ 
+height: 100px;
+background-image: url(../IMG/pattern.jpg);
+/*background-size: cover; 
+*/
+/*background-repeat:space;
+*/ 
+background-repeat: repeat; 
+
+}
+
+.logo { background-color: blue; 
+}
+
+.logo-image  {
+	height: 100px; }
+
+.mainMenu{
+background-image: url(../IMG/vasik.jpg);	
+}
+
+nav a {
+	color: gold;
+}
+.hero {
+height: 110px;
+background-image: url(../IMG/pattern.jpg);
+/*
+background-size: cover;
+*/
+background-repeat: repeat;
+
+/*
+background-repeat:space; */
+	}
+
+.mainFooter {
+height: 50px;
+background-color: blue;
+}
+
+.copyright {
+	color:gold;  
+	float:right
+}

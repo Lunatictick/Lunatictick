@@ -1,0 +1,57 @@
+/*body {
+/*background-color:#94b9ff;*/
+	/*background-image: url(../IMG/vasik.jpg); 
+	background-size:cover;
+	background-repeat:space
+	/*background-image: url(../IMG/lemon.jpg); 
+	background-repeat:repeat;
+	} */
+
+.courseName {
+/* просто голубой фон background-color: #91b3f2;*/ 
+height: 50px;
+background-image: url(../IMG/vasik.jpg);
+background-size: cover; 
+background-repeat:space;
+background-repeat: repeat; 
+
+}
+/*верхний фон*/
+.logo { background-color: blue; 
+}
+
+.logo-image  {
+	height: 100px;
+}
+
+.mainMenu{
+background-color:blue; 
+}
+
+nav a {
+	color: white;
+}
+
+.hero {
+height: 150px;
+background-image: url(../IMG/vasik.jpg);	
+background-size: cover; 
+background-repeat:space;
+background-repeat: repeat; 
+/*
+background-size: cover;
+*/
+background-repeat: repeat;
+/*
+background-repeat:space; */
+	}
+
+.mainFooter {
+height: 50px;
+background-color: blue;
+}
+
+.copyright {
+	color:white;  
+	float:right
+}
