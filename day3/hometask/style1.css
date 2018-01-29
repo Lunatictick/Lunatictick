@@ -1,0 +1,64 @@
+@import url(reset.css);
+.page1 {
+height: 200px;
+background-image: url(img/puck.jpg);
+background-size:cover;
+background-repeat: no-repeat;
+}
+
+.mainHeader {
+height: 200px;
+width: 70vw
+background-image: url();
+background-size:cover;
+background-repeat: no-repeat;
+/*background-image: url(img/ice.jpg);
+background-size: cover;
+background-repeat: no-repeat; */
+
+/* background-attachment: fixed;*/
+}
+
+.page2 { 
+ /*	background-color: #ff99bd;*/ 
+ background-image: url(img/ice.jpg);
+background-size: cover; 
+background-position: center top;
+}
+
+.first {
+	width: 200px
+}
+
+.second {
+	width: 60%;
+}
+
+.third {
+	width: 90vw;
+	background-color: lightblue;
+}
+
+.forth {
+	background-color: lightgreen;
+	width: 50vmin;
+}
+
+.five {
+	width: 40vmax;
+	background-color: yellow;
+}
+.six {
+	min-height: 10px;
+	background-color: grey;
+}
+.square {
+	height: 300px;
+	width: 300px;
+	background-color: navy;
+	border-radius: 50%;
+	background-image: url(https://i.ytimg.com/vi/0SsEtjzPBh8/maxresdefault.jpg);
+	background-size: cover;
+	background-position: center;
+
+}

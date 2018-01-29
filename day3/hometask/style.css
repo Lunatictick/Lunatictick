@@ -1,0 +1,137 @@
+@import url(reset.css);
+@font-face {
+	src: url(font/BigStem-Regular.ttf);
+	font-family:bigOne;
+}
+/*
+body { /*
+	max-height: 90vh;
+	max-width: 90vw;
+	min-height: 90vh;
+	min-width: 90vw;
+	position: fixed;
+	/*background-image: url(img/boots.jpg);
+	background-position: top center;
+	background-size: space;
+	/*background-repeat: no-repeat;
+	margin: 5vh 10vw 10vw 5vh;
+}*/ 
+/*
+.page {
+	max-height: 90vh;
+	max-width: 90vw;
+	min-height: 90vh;
+	min-width: 90vw;
+	position: fixed;
+	background-image: url(img/boots.jpg);
+	background-position: top center;
+	background-size:cover;
+	margin: 5vh 10vw 10vw 5vh;
+}	*/
+
+h1 {
+	font-family: bigOne;
+	font-size: 7vmin; 
+	color: black;
+	text-align: center;
+	line-height: 20vh;
+	
+	/*height: 10vh;
+	position: relative;
+	padding-left: 20%;
+	padding-top: 0.4em; */
+}
+
+h2 { 
+	height: 14vh;
+	font-family: bigOne; 
+	color: purple;
+	font-size: 8vw;
+	text-align: center;
+	line-height:14vh 
+	/*padding-top: 5%;
+	padding-left: 3%;*/
+ }
+ a {
+ 	text-decoration: none;
+ }
+ .mainheader {
+	height: 20vh;
+	background-image: url(img/hokchb.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.questions {
+	height: 20vh;
+	position: center;
+	font-family: bigOne;
+	letter-spacing: 5px;
+	;
+}
+.one {
+	font-size: 3vw;
+	
+	text-align: center;
+}
+.two {
+	font-size: 3vw;
+	line-height: 6vh;
+	text-align: center;
+}
+.three {
+	font-size: 3vw;
+	line-height: 8vh;
+	text-align: center;
+}
+
+/*.one { 
+	color: black;
+	letter-spacing: 5px;
+	font-size: 5vmin;
+	text-align: right;
+	line-height: 8vh;
+	/*padding-left: 15%;
+	}
+	*/
+
+/*.two {
+	color: purple;
+	letter-spacing: 5px;
+	font-size: 4vmin;
+	text-align: left;
+	line-height: 6vh;
+	/*padding-left: 5%;
+}*/
+
+/*.three {
+	color: navy;
+	letter-spacing: 3px;
+	font-size: 4vmin;
+	text-align: right;
+	line-height: 6vh;
+	/*padding-left: 2%;
+	}*/
+
+.text {
+	height: 35vmin;
+	font-size: 3vw;
+	/*color: violet;*/
+	color: red;
+ }
+
+.footer {/*
+ 	background-image: url(img/step.jpg);
+ 	/*-webkit-background-size: auto;
+ 	background-size: auto;*/
+ 	height:5vh;
+
+ }
+
+.contacts  {
+ 	font-size: 2.5vmin;
+	/*text-align: right;*/
+	padding-bottom: 0.1em;
+ }
+
+
